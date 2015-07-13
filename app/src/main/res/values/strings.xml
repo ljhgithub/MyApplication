@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+     <string name="link_text_manual"><![CDATA[<b>text_html_resource:
+      Explicit links using &lt;a&gt; markup.</b>
+      This has markup for a <a href="http://www.google.com">link</a> specified
+      via an &lt;a&gt; tag.  Use a \"tel:\" URL
+      to <a href="tel:4155551212">dial a phone number</a>.]]></string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+
+
+    <!-- Menu item to send feedback about the app [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_app_feedback">应用程序反馈</string>
+
+    <!-- Accessibility description for menu item to send feedback about the app -->
+    <string name="navdrawer_item_app_feedback_a11y">应用程序反馈</string>
+
+    <!-- Menu item to open the Experts screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_experts_directory">专家</string>
+
+    <!-- Accessibility description for menu item to open the Experts screen. -->
+    <string name="navdrawer_item_experts_directory_a11y">专家名录</string>
+
+    <!-- Menu item to open the Explore screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_explore">探索</string>
+
+    <!-- Accessibility description for menu item to open the Explore screen. -->
+    <string name="navdrawer_item_explore_a11y">探索谷歌 I/O</string>
+
+    <!-- Menu item to open the Map screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_map">地图</string>
+
+    <!-- Menu item to open the My Schedule screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_my_schedule">我的日程</string>
+
+    <!-- Menu item to open the People I've Met screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_people_ive_met">我见过的人</string>
+
+    <!-- Accessibility description of item to open the People I've Met screen -->
+    <string name="navdrawer_item_people_ive_met_a11y">我见过的人</string>
+
+    <!-- Menu item to open the Settings screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_settings">设置</string>
+
+    <!-- Menu item to start the Sign In flow [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_sign_in">登录</string>
+
+    <!-- Menu item to open a screen that lists I/O related hashtags. Each hashtag, when clicked, will
+    open Google+ stream of posts that uses the hashtag [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_social">社交的</string>
+
+    <!-- Menu item to open a list of current and past I/O videos [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_video_library">视频库</string>
+</resources>
